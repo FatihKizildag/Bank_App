@@ -305,7 +305,7 @@ class Customer{
         return res;
     }
     public String getName() {
-        return Name;
+        return Name +" "+Surname;
     }
     public void setName(String name) {
         Name = name;
