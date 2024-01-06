@@ -5,7 +5,7 @@
 import java.util.ArrayList;
 import java.util.Random;
 
-public class Assignment02_20190808041 {
+public class Bank_App {
     public static void main(String[] args) {
         Bank b = new Bank("My Bank", "My Bank's Address");
         b.addCompany(1, "Company 1");
